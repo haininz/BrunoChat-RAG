@@ -1,0 +1,4 @@
+brunochat-env/
+data-pipeline/
+.env
+__pycache__/
